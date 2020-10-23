@@ -84,3 +84,10 @@ h1{
   font-weight: bold;
   color: #fff;
 }
+
+.full{
+  background: rgb(207, 103, 103);
+}
+.empty{
+  background: rgb(75, 127, 224);
+}
